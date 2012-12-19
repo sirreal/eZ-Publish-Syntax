@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{case match=${1:value}}
+    {${0:* code... *}}
+{/case}</string>
+	<key>name</key>
+	<string>case</string>
+	<key>tabTrigger</key>
+	<string>case</string>
+	<key>scope</key>
+	<string>source.eztpl</string>
+</dict>
+</plist>

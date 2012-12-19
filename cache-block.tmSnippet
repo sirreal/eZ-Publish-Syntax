@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{cache-block keys=${1:keys} expiry=${2:3600} ${3:ignore_content_expiry} subtree_expiry=${4:&lt;path&gt;}}
+</string>
+	<key>name</key>
+	<string>cache-block</string>
+	<key>tabTrigger</key>
+	<string>cache</string>
+	<key>scope</key>
+	<string>source.eztpl</string>
+</dict>
+</plist>

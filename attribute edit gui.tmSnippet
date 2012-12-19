@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{attribute_edit_gui attribute=\$${1:attribute}}
+$0</string>
+	<key>name</key>
+	<string>attribute edit gui</string>
+	<key>tabTrigger</key>
+	<string>attribute_edit_gui</string>
+	<key>scope</key>
+	<string>source.eztpl</string>
+</dict>
+</plist>
