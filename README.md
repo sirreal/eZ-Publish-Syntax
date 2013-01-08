@@ -12,7 +12,9 @@ The original template and snippets were forked from https://github.com/nmeirik/n
 
 # Installation
 
-Just get the repo into a your Sublime Text 2 "Packages" folder.
+Now available via package control!
+
+Standard install: clone the repo into your Sublime Text 2 "Packages" folder.
 
 # Info
 
