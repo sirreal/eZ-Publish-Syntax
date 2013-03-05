@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\{\$${1:node}|attribute(show,${2:1})\}]]></content>
+    <tabTrigger>show</tabTrigger>
+    <scope>source.eztpl</scope>
+    <description>{...|attribute(show)}</description>
+</snippet>
